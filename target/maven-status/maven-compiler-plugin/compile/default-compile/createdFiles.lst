@@ -1,0 +1,14 @@
+org/example/client/service/ISimpleGetService.class
+org/example/client/response/model/Premium.class
+org/example/client/response/model/GlobalSummary.class
+org/example/client/service/SimpleGetService.class
+org/example/client/interceptor/ClientInterceptor.class
+org/example/client/util/SignatureUtil.class
+org/example/client/request/ThirdPartyClient.class
+org/example/client/request/SignedRequest.class
+org/example/configuration/GeneralConfiguration.class
+org/example/Application.class
+org/example/client/configuration/Configuration.class
+org/example/client/response/model/SummaryResponse.class
+org/example/client/response/model/CountrySummary.class
+org/example/client/controller/InfoController.class

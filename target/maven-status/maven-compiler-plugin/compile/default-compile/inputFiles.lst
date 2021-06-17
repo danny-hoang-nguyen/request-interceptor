@@ -1,0 +1,14 @@
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/Application.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/service/ISimpleGetService.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/response/model/GlobalSummary.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/response/model/CountrySummary.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/interceptor/ClientInterceptor.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/util/SignatureUtil.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/controller/InfoController.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/request/SignedRequest.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/configuration/Configuration.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/configuration/GeneralConfiguration.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/response/model/SummaryResponse.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/response/model/Premium.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/service/SimpleGetService.java
+/Users/Danny/Projects/OpenSource/Request-Interceptor/src/main/java/org/example/client/request/ThirdPartyClient.java
